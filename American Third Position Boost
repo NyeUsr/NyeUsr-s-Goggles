@@ -1,0 +1,33 @@
+! name: American Third Position Boost
+! description: Boost websites which provide America's 'third position' views
+! public: true
+! author: NoUsr
+! homepage: https://github.com/NyeUsr/NyeUsr-s-Goggles
+! avatar: #ca0800
+
+! Larger sites/movements for 'third position'
+nationaljusticeparty.com$boost=4
+national-justice.com$boost=4
+therightstuff.biz$boost=4
+patriotfront.us$boost=4
+nationalvanguard.org$boost=4
+hyphen-report.com$boost=4
+will2rise.com$boost=4
+media2rise.com#boost=4
+shopw2r.com$boost=4
+stonetoss.com$boost=4
+
+! Lots of stuff such as books shared through archive sites
+archive.org$boost=3
+archive.is$boost=2
+
+! Can't forget Christianity mixed with alternative politics which is becoming increasingly popular
+thecatholicfascist.substack.com$boost=3
+
+! Foreign sites with similar purpose/goals
+nationalparty.ie$boost=2
+nordicresistancemovement.org$boost=2
+
+! Trash
+adl.org$downrank=3
+splcenter.org$downrank=3
