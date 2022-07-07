@@ -1,4 +1,4 @@
-! name: American Third Position Boost
+! name: American Third Position Booster
 ! description: Boost websites which provide America's 'third position' views
 ! public: true
 ! author: NoUsr
@@ -16,6 +16,9 @@ will2rise.com$boost=4
 media2rise.com#boost=4
 shopw2r.com$boost=4
 stonetoss.com$boost=4
+imperiumpress.org$boost=4
+antelopehillpublishing.com$boost=4
+codoh.com$boost=4
 
 ! Lots of stuff such as books shared through archive sites
 archive.org$boost=3
