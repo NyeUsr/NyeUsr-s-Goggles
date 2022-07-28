@@ -19,18 +19,87 @@ stonetoss.com$boost=4
 imperiumpress.org$boost=4
 antelopehillpublishing.com$boost=4
 codoh.com$boost=4
+nationalparty.ie$boost=4
+nordicresistancemovement.org$boost=4
+
+! https://t.me/censormedaddy/13218
+! https://mega.nz/file/icZhjbQZ#HUbsaRricTiFwTwq3UEjPAOdtpmLfSZrZ3h3WWkZTc4
+refseek.com$boost=4
+worldcat.org$boost=4
+springer.com$boost=4
+bioline.org.br$boost=4
+repec.org$boost=4
+science.gov$boost=4
+pdfdrive.com$boost=4
+base-search.net$boost=4
+
+! https://3pdirectory.com/book-publishers-vendors/
+! https://web.archive.org/web/20220714065445/https://3pdirectory.com/book-publishers-vendors/
+agarthapublishing.com$boost=4
+alternamedia.se$boost=4
+arktos.com$boost=4
+aureus-press.com$boost=4
+blackhousepublishing.com$boost=4
+bromiospress.com$boost=4
+christogenea.com$boost=4
+christogenea.org$boost=4
+claymorebooks.co.uk$boost=4
+clemensandblair.com$boost=4
+colchestercollection.com$boost=4
+cosmotheistchurch.org$boost=4
+akcija.org$boost=4
+ebay.com/str/danthembookseller$boost=4
+deutscher-buchdienst.com$boost=4
+dissidentmindsbooks.com$boost=4
+dvxpublishing.com$boost=4
+editorialeas.com$boost=4
+carolynemerick.gumroad.com$boost=4
+forefathers-art.com$boost=4
+freematthale.org$boost=4
+daviddukeonline.com$boost=4
+gjallarhorn-klangschmiede.com$boost=4
+greenpilled.com$boost=4
+ignaciocarreraediciones.cl$boost=4
+irminfolk.com/free-elibrary$boost=4
+logik.se$boost=4
+store.amren.com$boost=4
+nuw-versand.de$boost=4
+newfrontierusa.org$boost=4
+nowhiteguiltcollectibles.com$boost=4
+noontidepress.com$boost=4
+northwestfront.info$boost=4
+nspublications.com$boost=4
+nsvendor.com$boost=4
+ostarapublications.com$boost=4
+patrioticdissent.net$boost=4
+pdfarchive.info$boost=4
+phalanx-europa.com$boost=4
+pzg.biz/#!/Books/$boost=4
+renovamen-verlag.de$boost=4
+sanctuarypress.com$boost=4
+shotwellpublishing.com$boost=4
+stevenbooks.co.uk$boost=4
+americanfuturist.net$boost=4
+barnesreview.org$boost=4
+thefallofwesternman.com$boost=4
+savitridevi.org$boost=4
+whitepeoplepress.com$boost=4
+third-reich-books.com$boost=4
+tiendafalangista.com/18-libros$boost=4
+ulsterinstitute.org$boost=4
+antaios.de$boost=4
+deutsches-warenhaus.net$boost=4
+whiteartcollective.com$boost=4
 
 ! Lots of stuff such as books shared through archive sites
 archive.org$boost=3
-archive.is$boost=2
+archive.is$boost=3
 
 ! Can't forget Christianity mixed with alternative politics which is becoming increasingly popular
-thecatholicfascist.substack.com$boost=3
-
-! Foreign sites with similar purpose/goals
-nationalparty.ie$boost=2
-nordicresistancemovement.org$boost=2
+gab.com$boost=4
+thecatholicfascist.substack.com$boost=4
+orthochristian.com$boost=4
 
 ! Trash
-adl.org$downrank=3
-splcenter.org$downrank=3
+adl.org$downrank=4
+splcenter.org$downrank=4
