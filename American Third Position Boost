@@ -99,7 +99,9 @@ archive.is$boost=3
 gab.com$boost=4
 thecatholicfascist.substack.com$boost=4
 orthochristian.com$boost=4
+christiansfortruth.com$boost=4
+
 
 ! Trash
-adl.org$downrank=4
-splcenter.org$downrank=4
+adl.org$discard
+splcenter.org$discard
