@@ -94,6 +94,13 @@ whiteartcollective.com$boost=4
 ! Lots of stuff such as books shared through archive sites
 archive.org$boost=3
 archive.is$boost=3
+archive.ph$boost=3
+
+! Promote better video sharing/hosting sites
+youtube.com$derank=1
+youtu.be$derank=1
+odysee.com$boost=2
+bitchute.com$boost=2
 
 ! Can't forget Christianity mixed with alternative politics which is becoming increasingly popular
 gab.com$boost=4
