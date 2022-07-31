@@ -1,0 +1,20 @@
+! name: Research Boost
+! description: Boost websites which provide scholarly and/or research papers
+! public: true
+! author: NoUsr
+! homepage: https://github.com/NyeUsr/NyeUsr-s-Goggles
+! avatar: #ca0800
+
+researchgate.net$boost=4
+*.pdf$boost=2
+
+! https://t.me/censormedaddy/13218
+! https://mega.nz/file/icZhjbQZ#HUbsaRricTiFwTwq3UEjPAOdtpmLfSZrZ3h3WWkZTc4
+refseek.com$boost=4
+worldcat.org$boost=4
+springer.com$boost=4
+bioline.org.br$boost=4
+repec.org$boost=4
+science.gov$boost=4
+pdfdrive.com$boost=4
+base-search.net$boost=4
