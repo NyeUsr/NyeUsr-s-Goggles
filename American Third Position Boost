@@ -22,6 +22,7 @@ codoh.com$boost=4
 nationalparty.ie$boost=4
 nordicresistancemovement.org$boost=4
 justicereport.news$boost=4
+europathelastbattle.net$boost=4
 
 ! https://t.me/censormedaddy/13218
 ! https://mega.nz/file/icZhjbQZ#HUbsaRricTiFwTwq3UEjPAOdtpmLfSZrZ3h3WWkZTc4
@@ -100,8 +101,9 @@ archive.ph$boost=3
 ! Promote better video sharing/hosting sites
 youtube.com$derank=1
 youtu.be$derank=1
-odysee.com$boost=2
-bitchute.com$boost=2
+odysee.com$boost=3
+bitchute.com$boost=3
+rumble.com$boost=1
 
 ! Can't forget Christianity mixed with alternative politics which is becoming increasingly popular
 gab.com$boost=4
@@ -111,5 +113,52 @@ christiansfortruth.com$boost=4
 
 
 ! Trash
+cnn.com$derank=2
+vox.com$derank=2
+huffpost.com$deran=2
+nbcnews.com$derank=2
+cnbc.com$derank=2
+thegavoice.com$discard
+epgn.com$discard
+gaycitynews.com$discard
+gaytimes.co.uk$discard
+gaybuzzer.com$discard
+eriegaynews.com$discard
+advocate.com$discard
+gayiceland.is$discard
+jrlcharts.com$discard
+queerty.com$discard
+gaylaxymag.com$discard
+gaynews.nl$discard
+gaynewstoday.com$discard
+thegailygrind.com$discard
+hesaidmag.com$discard
+gayety.co$discard
+lgbti.org$discard
+outinjersey.net$discard
+meaws.com$discard
+washingtonblade.com$discard
+starobserver.com.au$discard
+them.us$discard
+out.com$discard
+ebanman.com$discard
+joemygod.com$discard
+projectq.us$discard
+lesbianandgaynews.com$discard
+gaynewsnow.com$discard
+bestgaynewyork.com$discard
+gaystarnews.com$discard
+lalgbtcenter.org$discard
+lgbt.foundation$discard
+lgbt.ie$discard
+lgbtcenterofraleigh.com$discard
+ok2bme.ca$discard
+thetrevorproject.org$discard
+centralpalgbtcenter.org$discard
+youth.gov/youth-topics/lgbt$discard
+youth.gov/resources/what-does-lgbt-mean-know-basics$discard
+cdc.gov/lgbthealth/$discard
+loc.gov/lgbt-pride-month/$discard
+pinknews.co.uk$discard
 adl.org$discard
 splcenter.org$discard
