@@ -99,8 +99,8 @@ archive.is$boost=3
 archive.ph$boost=3
 
 ! Promote better video sharing/hosting sites
-youtube.com$derank=1
-youtu.be$derank=1
+youtube.com$downrank=1
+youtu.be$downrank=1
 odysee.com$boost=3
 bitchute.com$boost=3
 rumble.com$boost=1
@@ -113,11 +113,11 @@ christiansfortruth.com$boost=4
 
 
 ! Trash
-cnn.com$derank=2
-vox.com$derank=2
+cnn.com$downrank=2
+vox.com$downrank=2
 huffpost.com$deran=2
-nbcnews.com$derank=2
-cnbc.com$derank=2
+nbcnews.com$downrank=2
+cnbc.com$downrank=2
 thegavoice.com$discard
 epgn.com$discard
 gaycitynews.com$discard
