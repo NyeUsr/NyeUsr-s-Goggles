@@ -114,7 +114,7 @@ christiansfortruth.com$boost=4
 ! Trash
 cnn.com$downrank=2
 vox.com$downrank=2
-huffpost.com$derank=2
+huffpost.com$downrank=2
 nbcnews.com$downrank=2
 cnbc.com$downrank=2
 thegavoice.com$discard
