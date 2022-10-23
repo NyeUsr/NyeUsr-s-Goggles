@@ -23,6 +23,7 @@ nationalparty.ie$boost=4
 nordicresistancemovement.org$boost=4
 justicereport.news$boost=4
 europathelastbattle.net$boost=4
+theoccidentalobserver.net$boost=4
 
 ! https://t.me/censormedaddy/13218
 ! https://mega.nz/file/icZhjbQZ#HUbsaRricTiFwTwq3UEjPAOdtpmLfSZrZ3h3WWkZTc4
@@ -107,16 +108,15 @@ rumble.com$boost=1
 
 ! Can't forget Christianity mixed with alternative politics which is becoming increasingly popular
 gab.com$boost=4
+legiochristi.com$boost=4
 thecatholicfascist.substack.com$boost=4
 orthochristian.com$boost=4
 christiansfortruth.com$boost=4
+newcolumbiamovement.org$boost=4
 
 ! Trash
-cnn.com$downrank=2
-vox.com$downrank=2
-huffpost.com$downrank=2
-nbcnews.com$downrank=2
-cnbc.com$downrank=2
+adl.org$downrank=1
+splcenter.org$downrank=1
 thegavoice.com$discard
 epgn.com$discard
 gaycitynews.com$discard
@@ -154,10 +154,7 @@ lgbtcenterofraleigh.com$discard
 ok2bme.ca$discard
 thetrevorproject.org$discard
 centralpalgbtcenter.org$discard
+lgbtnetwork.org$discard
+lgbtyouth.org.uk$discard
 youth.gov/youth-topics/lgbt$discard
-youth.gov/resources/what-does-lgbt-mean-know-basics$discard
-cdc.gov/lgbthealth/$discard
-loc.gov/lgbt-pride-month/$discard
 pinknews.co.uk$discard
-adl.org$discard
-splcenter.org$discard
