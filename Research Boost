@@ -6,7 +6,7 @@
 ! avatar: #ca0800
 
 zenodo.org$boost=4
-explore.openaire.eu$bost=4
+explore.openaire.eu$boost=4
 researchgate.net$boost=4
 sciencedirect.com$boost=4
 ieeexplore.ieee.org$boost=4
