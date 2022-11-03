@@ -5,7 +5,24 @@
 ! homepage: https://github.com/NyeUsr/NyeUsr-s-Goggles
 ! avatar: #ca0800
 
+zenodo.org$boost=4
+explore.openaire.eu$bost=4
 researchgate.net$boost=4
+sciencedirect.com$boost=4
+ieeexplore.ieee.org$boost=4
+nber.org$boost=4
+epistemonikos.org$boost=4
+ncbi.nlm.nih.gov$boost=4
+psycnet.apa.org$boost=4
+nature.com$boost=4
+nejm.org$boost=4
+tandfonline.com$boost=4
+cdc.gov$boost=4
+jlsc-pub.org$boost=4
+link.springer.com$boost=4
+onlinelibrary.wiley.com$boost=4
+
+/doiLanding$boost=4
 *.pdf$boost=2
 
 ! https://t.me/censormedaddy/13218
