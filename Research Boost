@@ -9,7 +9,7 @@ zenodo.org$boost=4
 explore.openaire.eu$boost=4
 researchgate.net$boost=4
 sciencedirect.com$boost=4
-ieeexplore.ieee.org$boost=4
+ieee.org$boost=4
 nber.org$boost=4
 epistemonikos.org$boost=4
 ncbi.nlm.nih.gov$boost=4
@@ -19,10 +19,53 @@ nejm.org$boost=4
 tandfonline.com$boost=4
 cdc.gov$boost=4
 jlsc-pub.org$boost=4
-link.springer.com$boost=4
-onlinelibrary.wiley.com$boost=4
+wiley.com$boost=4
+iop.org$boost=4
+cell.com$boost=4
+nejm.org$boost=4
+aps.org$boost=4
+rsc.org$boost=4
+pubs.acs.org$boost=4
+oup.com$boost=4
+oxfordjournals.org$boost=4
+asm.org$boost=4
+annualreviews.org$boost=4
+biomedcentral.com$boost=4
+nowpublishers.com$boost=4
+science.org$boost=4
+sciencemag.org$boost=4
+jamanetwork.com$boost=4
+ama-assn.org$boost=4
+bmj.com$boost=4
+bmjjournals.com$boost=4
+ahajournals.org$boost=4
+ascopubs.org$boost=4
+jco.org$boost=4
+agu.org$boost=4
+elsevier.com$boost=4
+aspetjournals.org$boost=4
+rsna.org$boost=4
+acm.org$boost=4
+philpapers.org$boost=4
+mitpressjournals.org$boost=4
+springeropen.com$boost=4
+thelancet.com$boost=4
+jci.org$boost=4
+sagepub.com$boost=4
+rabek.org$boost=4
+
+computer.org/csdl/$boost=4
+
+! https://plu.mx/plum/a/?doi=10.1016/j.joule.2018.09.009
+plu.mx$boost=3
 
 /doiLanding$boost=4
+/journal/$boost=2
+
+! Boost .edu sites as they may aid in your research
+*.edu$boost=2
+
+! Boost pdf file rankings as these are likely research papers
 *.pdf$boost=2
 
 ! https://t.me/censormedaddy/13218
