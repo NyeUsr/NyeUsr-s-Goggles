@@ -78,3 +78,11 @@ repec.org$boost=10
 science.gov$boost=10
 pdfdrive.com$boost=10
 base-search.net$boost=10
+
+! Annoying sites which like to take up space and provide nothing actually of use
+alternativeto.net/software/$discard
+slant.co$discard
+weekly-ads-online.com$discard
+arcus-www.amazon.com$discard
+origin-smile.amazon.com$discard
+waterfiltercomparisons.com$discard
