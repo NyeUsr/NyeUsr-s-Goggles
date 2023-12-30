@@ -17,3 +17,4 @@ lyricsfa.com$boost=10
 */lyrics-*$boost=9
 
 $discard
+genius.com/artists/$discard
