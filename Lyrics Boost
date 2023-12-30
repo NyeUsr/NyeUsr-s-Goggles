@@ -16,4 +16,4 @@ lyricsfa.com$boost=10
 */lyrics/*$boost=9
 */lyrics-*$boost=9
 
-spotify.com$discard
+$discard
