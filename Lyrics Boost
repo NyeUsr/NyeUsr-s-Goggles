@@ -1,0 +1,19 @@
+! name: Lyrics Booster
+! description: Boost lyric websites.
+! public: true
+! author: NoUsr
+! homepage: https://github.com/NyeUsr/NyeUsr-s-Goggles
+! avatar: #a76bcf
+
+genius.com$boost=10
+azlyrics.com$boost=10
+musixmatch.com$boost=10
+lyricstranslate.com$boost=10
+lyrics.com$boost=10
+songlyrics.com$boost=10
+lyricsmin.com$boost=10
+lyricsfa.com$boost=10
+*/lyrics/*$boost=9
+*/lyrics-*$boost=9
+
+spotify.com$discard
