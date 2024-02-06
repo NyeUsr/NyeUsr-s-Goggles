@@ -13,6 +13,8 @@ lyrics.com$boost=10
 songlyrics.com$boost=10
 lyricsmin.com$boost=10
 lyricsfa.com$boost=10
+rockisfest.ru/lyrics/$boost=10
+beelyrics.net$boost=10
 */lyrics/*$boost=9
 */lyrics-*$boost=9
 
